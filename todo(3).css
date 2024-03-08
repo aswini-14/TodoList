@@ -1,0 +1,42 @@
+
+.butstyle
+{
+    color:white;
+    height:50px;
+    width:130px;
+    background-color:darkslateblue ;
+    border-radius: 5px;
+    margin:20px;
+    padding:10px;
+}
+
+.inputstyle
+{
+    height:50px;
+    width:500px;
+}
+
+.labelcon
+{
+    color:white;
+    background-color:darkslateblue;
+    border-radius:5px;
+    border-left-color: darkslateblue;
+    height:50px;
+    width:600px;
+    margin-left:10px;
+    padding-top:10px;
+    padding-left:10px;
+
+}
+
+.deletestyle
+{
+    margin-right:10px;
+    text-align:right;
+}
+
+.checked
+{
+    text-decoration : line-through;
+}
